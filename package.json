@@ -1,0 +1,18 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "how setting up a Node project",
+  "main": "start",
+  "scripts": {
+    "test": "npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node index.js"
+  },
+  "keywords": [
+    "start"
+  ],
+  "author": "Marijke",
+  "license": "MIT"
+}
